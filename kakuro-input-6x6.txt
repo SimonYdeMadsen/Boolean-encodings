@@ -1,0 +1,20 @@
+ 0\ 0|15\ 0|19\ 0| 0\ 0|26\ 0|10\ 0
+ 0\12|  0  |  0  |12\ 4|  0  |  0  
+ 0\19|  0  |  0  |  0  |  0  |  0  
+ 0\ 0|16\23|  0  |  0  |  0  |13\ 0
+ 0\26|  0  |  0  |  0  |  0  |  0  
+ 0\16|  0  |  0  | 0\11|  0  |  0  
+
+
+
+#sol
+https://www.mathinenglish.com/puzzleview.php?id=331&pstid=702
+
+
+
+168 sum clauses:
+- 168/6 (bits) = 28
+- cols: 1+1+4+2+4+1+1 = 14
+- rows: 1+1+4+2+4+1+1 = 14
+- 14+14 = 28
+- so (#bits) * (#dict-entries) * (#associated_fields)
